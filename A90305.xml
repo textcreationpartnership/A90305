@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the city of Oxford to His Majesties propositions concerning money and plate: as also the answer of the counties of Oxford and Berk-shire; delivered to his sacred Majesty for the city by the recorder thereof: and for the counties, by the high Sheriffe of Oxford; setting forth the intentions of the said citie and counties, toward his Majesty and his High Court of Parliament.</title>
+            <title>Answer of the city of Oxford to His Majesties propositions concerning money and plate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90305</idno>
+            <idno type="STC">Wing O852</idno>
+            <idno type="STC">Thomason E85_1</idno>
+            <idno type="STC">ESTC R21284</idno>
+            <idno type="EEBO-CITATION">99871392</idno>
+            <idno type="PROQUEST">99871392</idno>
+            <idno type="VID">155663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155663)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the city of Oxford to His Majesties propositions concerning money and plate: as also the answer of the counties of Oxford and Berk-shire; delivered to his sacred Majesty for the city by the recorder thereof: and for the counties, by the high Sheriffe of Oxford; setting forth the intentions of the said citie and counties, toward his Majesty and his High Court of Parliament.</title>
+                  <title>Answer of the city of Oxford to His Majesties propositions concerning money and plate.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield,</publisher>
+                  <pubPlace>Printed at Oxford [i.e. London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A response to "His Majesties speech spoken to the Mayor, Aldermen, and Commonality of the Citie of Oxford".</note>
+                  <note>"A Parliamentary London counterfeit. The speeches seem genuine [as answers to "His Majesties speech spoken to the Mayor, Aldermen, and Commonality of the Citie of Oxford"] .. but must have been distasteful to the King and as such he would not have printed.". -- Cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "Jan: 14 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oxford (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Oxfordshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Berkshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155663:1" rendition="simple:additions"/>
+            <pb facs="tcp:155663:1" rendition="simple:additions"/>
+            <p>THE ANSVVER OF THE City of <hi>OXFORD</hi> TO His Majeſties Propoſitions Concerning <hi>MONEY</hi> and <hi>PLATE:</hi>
+            </p>
+            <p>
+               <hi>AS ALSO</hi> The Anſwer of the Counties of <hi>Oxford</hi> and <hi>Berk-ſhire;</hi>
+            </p>
+            <p>Delivered to his ſacred Majeſty for the City by the <hi>Recorder</hi> thereof: and for the Counties, by the high Sheriffe of <hi>Oxford;</hi>
+            </p>
+            <p>Setting forth the intentions of the ſaid Citie and Counties, toward his Majeſty and his high Court of Parliament.</p>
+            <figure>
+               <head>SAPI<g ref="char:EOLhyphen"/>ENT<g ref="char:EOLhyphen"/>IA ET FELI<g ref="char:EOLhyphen"/>CITA<g ref="char:EOLhyphen"/>TE</head>
+               <figDesc>erstwhile blazon of Oxford University</figDesc>
+            </figure>
+            <p>Printed at <hi>Oxford</hi> by <hi>Leonard Lichfield.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:155663:2"/>
+            <pb n="3" facs="tcp:155663:2"/>
+            <head>Maſter <hi>Recorder</hi> of Oxford his Speech to His Majeſty.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Ay it pleaſe your ſacred Majeſty,</salute>
+            </opener>
+            <p>I was re<g ref="char:EOLhyphen"/>queſted by Maſter Mayor, in the name, and in the behalfe of himſelfe, his Brethren the Al<g ref="char:EOLhyphen"/>dermen, and the whole body of this City to give Your Majeſty a true and juſt account of his proceedings concerning your late Propo<g ref="char:EOLhyphen"/>ſitions for the bringing in Money, Plate, and Horſes, for your royall aſſiſtance in theſe your preſent wars: wherein if he have not in ſo full a meaſure anſwered your gracious expectation as he deſired he might, he hopes your Majeſty will accept the intention for the act, and pleaſe to pardon that fault, which ariſeth not from any want of good will in the people of this City to ſerve your Majeſty in all your af<g ref="char:EOLhyphen"/>faires, but from thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> misfortune. Firſt then, this City in all humility and gratitude acknowledgeth the many and abun<g ref="char:EOLhyphen"/>dant favours conferred on it by your royall bounty, the great comfort and ſecurity they have and do receive by enjoying the beams of your ſacred preſence ſo long time among them, the many priviledges and franchiſes beſtowed upon them and the Univerſity from your gracious donation, and doe confidently beleeve no one City in all your Highneſſe do<g ref="char:EOLhyphen"/>minions can be more endeared and engaged to your Maje<g ref="char:EOLhyphen"/>ſties cauſe and ſervice, then this City of Oxford; becauſe by the fruition of your royall preſence, they have ocular teſti<g ref="char:EOLhyphen"/>mony of your Majeſties virtues, and the integrity of your good meaning toward your ſubjects, which other Cities
+<pb n="4" facs="tcp:155663:3"/>can onely have by hear-ſay. Maſter Mayor and his brethren the Aldermen, intimating your late urgent occaſions to the inhabitants of this City for ſome ſupplies of money, have (if it pleaſe your Majeſty) found the intentions of the peo<g ref="char:EOLhyphen"/>ple ſo prone to your royall pleaſure, as no men in the world could expreſſe a greater and more ready deſire and zeale to lay downe their lives and fortunes at their Soveraignes feet then they: they proteſt they are ſo confident of your Maje<g ref="char:EOLhyphen"/>ſties goodneſſe, and ſtand ſo well affected to your cauſe, that not a man of them who is able to beare armes, but would willingly go into the field in your quarrell. And for Plate, Money, and Horſes, every man according to his ability will readily contribute. But (with your royall pardon) that can amount to no conſiderable ſumme, nor worthy your Maje<g ref="char:EOLhyphen"/>ſties acceptance, by reaſon of the infinite detriments and im<g ref="char:EOLhyphen"/>poveriſhments which have fallen on the inhabitants of this City in theſe wars: the Scholars (from whoſe cuſtome they acquired moſt part of their profits) either being non-reſi<g ref="char:EOLhyphen"/>dents in the Univerſity, by reaſon of theſe calamitous and perillous times; and if they be, they are either disfurniſhed of monies, by want of ſupplies from their friends, or by de<g ref="char:EOLhyphen"/>fault of their Tenants (ſuch as have any) not paying them their rents; ſo that Tradeſ-men are faine to vend all their wares on truſt, or keep them in their hands: a man that is reckoned worth two or three thouſand pounds (which is a very conſiderable eſtate in this City) being not able (though it were to ſave his life) to produce an hundred pound in rea<g ref="char:EOLhyphen"/>dy money; they who are great money-maſters keeping it in their hands, from whoſe gripes it is not to be raviſhed, nei<g ref="char:EOLhyphen"/>ther upon the beſt ſecurity by bond that is in the Towne, nei<g ref="char:EOLhyphen"/>ther upon the morgage or ſale of Lands: Beſides, the coun<g ref="char:EOLhyphen"/>trey, which was wont to take off many commodities from this City, have now quite deſerted it, there being no com<g ref="char:EOLhyphen"/>merce betweene us and them, either becauſe they have no money at all, being deprived of it by the rapine of the ſoul<g ref="char:EOLhyphen"/>diers, or elſe becauſe they dare not come hither with their
+<pb n="5" facs="tcp:155663:3"/>money, for feare it ſhould be taken away from them by the ſaid ſouldiers; and ſo for want of trade our Tradeſ-men are worne quite out of money: and for Plate, it aboundeth not here as it doth in that rich and mightie Citie of London, yet every man, according to the quantity he hath, will willingly impart it to the advancement of your Graces ſervice; in the <hi>interim,</hi> being grieved extremely that their abilities are inferiour to their deſires, they have among them made a collection of three hundred pounds, which is all that the meanneſſe of their fortunes can poſſibly ſtretch to at this inſtant. This, Maſter Mayor and his brethren the Alder<g ref="char:EOLhyphen"/>men, in the name and behalfe of the whole Citie, moſt hum<g ref="char:EOLhyphen"/>bly beſeech Your Majeſty to accept as graciouſly as they tender it with willingneſſe of minde; and both the Maior, and the reſt of the able Citizens, will as ſoone as poſſible take order for Horſes, and other proviſions to ſerve Your Majeſtie withall, if theſe wars continue: which they hope, and humbly deſire, that Your Majeſties goodneſſe will ende<g ref="char:EOLhyphen"/>vour to conclude and compoſe, that Your whole Kingdome may againe flouriſh in unity, peace, and concord.</p>
+         </div>
+         <div type="speech">
+            <pb n="6" facs="tcp:155663:4"/>
+            <head>The high Sheriffe of <hi>Oxford-ſhire</hi> his ſpeech to His Majeſty.</head>
+            <opener>
+               <salute>MAy it pleaſe Your gracious Majeſty,</salute>
+            </opener>
+            <p>according to Your late roiall command, and my bounden duty, I am come to render an account to Your Highneſſe of the buſineſſe You were pleaſed to imploy me in, and divers of the Juſtices of Peace for this Countie. And ſurely, to delude Your Maje<g ref="char:EOLhyphen"/>ſtie, or mince the intentions of divers of the people of theſe Counties, <hi>Oxford</hi> and <hi>Berk-ſhire,</hi> were little leſſe then a ca<g ref="char:EOLhyphen"/>pitall crime in me: I ſhall therefore plainly and briefly deli<g ref="char:EOLhyphen"/>ver how I finde the people affected toward Your Majeſties late Propoſitions, for Money, Plate, or Horſes.</p>
+            <p>The greater part of theſe Counties conſiſts (ſo pleaſe Your Majeſtie) of much tillage and huſbandrie; and in that, and in grazing, all the wealth and ſubſtance of it: and for the Huſband-men and Yeomanrie, they cry out that they are quite undone and ruined, by the dreadfull continuation of theſe wars; that the ſouldiers have driven away or killed their Cattell, which ſhould have yeelded them money; nay, riſled them of that money which they had, ſo that they are readier to aſke reliefe to maintaine themſelves and their fa<g ref="char:EOLhyphen"/>milies, then depart with any more of their eſtates; that they are bound to curſe for ever theſe wars, and with many de<g ref="char:EOLhyphen"/>precations wiſh, that Your Majeſtie would pleaſe to hear<g ref="char:EOLhyphen"/>ken to Your Parliament, whom they know to be a companie of wiſe, faithfull, and honourable men, ſuch as will doe no<g ref="char:EOLhyphen"/>thing contrary to the fundamentall Lawes of the Kingdome, in diſfavour or derogation of Your Majeſties royall Prero<g ref="char:EOLhyphen"/>gative;
+<pb n="7" facs="tcp:155663:4"/>that it cannot be but Your Majeſtie muſt needs be miſ-informed by Malignants againſt Your Parliament, who have gone on in faire and legall waies for the ſecurity of the ſubjects liberty. And with many more diſcourſes of this na<g ref="char:EOLhyphen"/>ture they humbly requeſt Your Majeſtie would pardon their urgent neceſſitie, which compels them to many hard ſhifts for money for their owne ſuſtenance, and not take it in ill part that they ſend not that which they have not. Theſe are the modeſter ſort of them. But the common voice of the multitude is, that if they had never ſo much money, they would not part with a penny of it to the maintenance of theſe wars, which they ſay are made againſt themſelves and their liberties, againſt the Common-wealth and Parliament, which is the peoples prop, and upholder of their liberties and priviledges; and ſo they entreat Your Majeſty that You would think of ſome meane for peace, and then Your ſub<g ref="char:EOLhyphen"/>jects ſhould no longer be oppreſſed with the charge of theſe wars. Theſe are the votes of the Plebeians, who either can<g ref="char:EOLhyphen"/>not or will not part with a penny towards the maintenance of Your Highneſſe wars. For the Gentrie of theſe Coun<g ref="char:EOLhyphen"/>ties, moſt of them are of a more candid diſpoſition, and bet<g ref="char:EOLhyphen"/>ter affected towards Your Majeſtie, and the importunity of Your affaires proffering their lives and eſtates at Your High<g ref="char:EOLhyphen"/>neſſe ſervice, eſteeming themſelves much honoured that Your Majeſty would pleaſe to retaine ſo good an opinion of them, as to put their duties and zeals to ſerve you to the teſt; that they are much grieved at the diſtractions of the King<g ref="char:EOLhyphen"/>dome, which they wiſh were to be rectified without further blood-ſhed; but that if there be no hopes of peace, they will live and die (as befits their allegeance) in Your High<g ref="char:EOLhyphen"/>neſſe quarrell: They alſo are very ſorry that the iniquitie of the times hath ſo ſtraitned them for money, that they cannot ſo amply demonſtrate their readineſſe to ſerve you in their actions, as they do in their wiſhes; that if they could poſſi<g ref="char:EOLhyphen"/>bly get any indifferent price for their lands, they would ſell them to furniſh Your Majeſties occaſions, according to the
+<pb n="8" facs="tcp:155663:5"/>integritie of their hearts. And ſo amongſt them (I meane that part of the Gentry of theſe Counties as ſtand affected to Your Majeſty) I have collected in Money and Plate two thouſand and odde pounds; a ſumme (I confeſſe) I am aſha<g ref="char:EOLhyphen"/>med to preſent to Your royall acceptance: but it is all I could by my beſt induſtry and importunitie procure at this time. There are divers Gentlemen that have ſubſcribed for the finding of Horſes for Your Graces ſervice, but as yet for want of money they cannot bring them in, but will do with the firſt opportunity.</p>
+            <p>Thuſ I have (according to the reality of my dutie) given Your Royall Majeſtie a true account of my proceedings and of the affections of the people of theſe Counties, which (in my conjecture) are concurrent with the intentions of all, or moſt of the Comminalty of England, who by tradition from their Anceſtors pay that confidence to the Parliament, that they cannot be removed from it: between whom and Your Sacred ſelfe I wiſh there were a ſudden and faire end; for till then Your People will never be ſatiſfied, nor Your King<g ref="char:EOLhyphen"/>dome happy.</p>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+   </text>
+</TEI>
